@@ -1,0 +1,15 @@
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\bin\Debug\hafiza_oyunu.exe.config
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\bin\Debug\hafiza_oyunu.exe
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\bin\Debug\hafiza_oyunu.pdb
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.Form1.resources
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.Properties.Resources.resources
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.exe
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.pdb
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\bin\Debug\hafiza_oyunu.exe.manifest
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\bin\Debug\hafiza_oyunu.application
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.exe.manifest
+C:\Users\ahmet\Desktop\hafiza_oyunu\hafiza_oyunu\obj\Debug\hafiza_oyunu.application
